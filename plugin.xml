@@ -20,14 +20,14 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-navigationbar-color"
+        id="cordova-plugin-navigationbar-solid"
         version="0.0.8">
 
     <name>NavigationBar</name>
 
     <description>Cordova NavigationBar Plugin</description>
 
-    <repo>https://github.com/fagundes/cordova-plugin-navigationbar.git</repo>
+    <repo>https://github.com/solidonline/cordova-plugin-navigationbar.git</repo>
 
     <keywords>cordova,navigationbar</keywords>
 

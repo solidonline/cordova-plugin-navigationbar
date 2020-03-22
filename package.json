@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-navigationbar-color",
+  "name": "cordova-plugin-navigationbar-solid",
   "version": "0.0.9",
   "description": "Cordova NavigationBar Plugin",
   "cordova": {
-    "id": "cordova-plugin-navigationbar-color",
+    "id": "cordova-plugin-navigationbar-solid",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fagundes/cordova-plugin-navigationbar"
+    "url": "https://github.com/solidonline/cordova-plugin-navigationbar"
   },
   "keywords": [
     "cordova",
