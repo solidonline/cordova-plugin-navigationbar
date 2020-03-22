@@ -154,6 +154,7 @@ public class NavigationBar extends CordovaPlugin {
                 public void run() {
                     try {
                         setNavigationBarBackgroundColor(args.getString(0), args.getBoolean(1));
+                        cordova.getActivity().getWindow().setNavigationBarColor(android.graphics.Color.parseColor(args.getString(0)));
                     } catch (JSONException ignore) {
                         LOG.e(TAG, "Invalid hexString argument, use f.i. '#777777'");
                     }
